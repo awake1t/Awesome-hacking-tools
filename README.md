@@ -121,7 +121,7 @@
 
 **信息识别 | Golang | 高危扫描**
 
-![image](https://github.com/awake1t/Awesome-hacking-tools/blob/main/img/image-20220410145544381.png)
+![image](https://github.com/awake1t/Awesome-hacking-tools/blob/main/img/banlii.png)
 
 **简介:** Banli是一款极其简单好用的高危资产识别和高危漏洞扫描工具。Banli要解决的问题是如何快速识别企业的高危资产，如何快速扫描企业的高危漏洞。包括Web资产、中间件资产、框架资产、安全设备等高危资产的识别，包括Web漏洞、命令执行漏洞、反序列化等高危漏洞的扫描. 作者：[0e0w](https://github.com/0e0w)
 
@@ -134,7 +134,8 @@
 
 **开源 |  Golang | 域名收集**
 
-![image](https://github.com/awake1t/Awesome-hacking-tools/blob/main/img/ksubdomain.png)
+![image](https://github.com/awake1t/Awesome-hacking-tools/blob/main/img/aa.png)
+
 ![image](https://github.com/awake1t/Awesome-hacking-tools/blob/main/img/ksubdomain1.png)
 
 **简介:** ksubdomain是一款基于无状态的子域名爆破工具，类似无状态端口扫描，支持在Windows/Linux/Mac上进行快速的DNS爆破，拥有重发机制不用担心漏包。
