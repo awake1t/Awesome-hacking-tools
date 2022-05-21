@@ -1,6 +1,10 @@
 
 # Awesome-hacking-tools
-好用的工具收集、大部分我都用过。部分会写上自己的感想，希望对你有帮助 / A collection of useful tools, most of which I have used. I hope it will be helpful to you
+
+
+> 收集网上好用、实用的红蓝对抗武器。从资产扫描、泄漏扫描、信息收集、漏洞扫描、SRC批量挖掘、内网渗透、应急响应等等工具。 大部分我都用过、部分会写上自己的感想与建议，希望对你有帮助
+
+
 
 * [Awesome-hacking-tools](#awesome-hacking-tools)
    * [信息收集](#信息收集)
@@ -45,11 +49,6 @@
 
 
 ## 信息收集
-
-> 分享一波自己觉得还不错的外网信息收集工具，在用工具收集完信息后，再结合手动的一些信息收集。提高效率的同时也更容易收获漏洞。 排名不分先后，感谢师傅的分享精神，网络安全有你们真不错!
-
-
-
 ### nemo_go
 
 **开源 | 信息收集 | Golang | 资产管理**
